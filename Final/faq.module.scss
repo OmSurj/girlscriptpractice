@@ -1,0 +1,12 @@
+@import "./variables";
+
+
+.faqContainer{
+    border: 3px solid red;
+    .faqHeading{
+        font-size: 4rem;
+        color: #F24139;
+        font-weight: 600;
+        text-align: center;
+    }
+}
